@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Léo Vinicius Spagnol Faquinello
+# Welcome! I'm Léo Vinicius Spagnol Faquinello
 
 🎓 Software Engineering student focused on web and backend development  
 💡 Passionate about tech, automation, and creative problem-solving  
