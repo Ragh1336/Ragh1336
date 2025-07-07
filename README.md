@@ -1,10 +1,10 @@
-## 👋 Hi there! I'm Léo Vinicius Spagnol Faquinello
+# 👋 Hi there! I'm Léo Vinicius Spagnol Faquinello
 
 🎓 Software Engineering student focused on web and backend development  
 💡 Passionate about tech, automation, and creative problem-solving  
 🌍 Fluent in English | Based in Balneário Camboriú, Brazil
 
-# 🚀 About Me
+## 🚀 About Me
 
 I work with tech support and software development, with solid knowledge in:
 
@@ -15,7 +15,7 @@ I work with tech support and software development, with solid knowledge in:
 
 I'm a fast learner, self-taught, resilient, and always looking to turn theory into practical, effective solutions.
 
-# 📫 Contact
+## 📫 Contact
 
 📧 leovinspagnol@outlook.com  
 📱 +55 (47) 99127-9290  
