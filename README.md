@@ -2,16 +2,15 @@
 
 🎓 Software Engineering student focused on web and backend development  
 💡 Passionate about tech, automation, and creative problem-solving  
-🌍 Fluent in English | Based in Camboriú, Brazil
+🌍 Fluent in English | Native Brazilian | Based in Camboriú, Brazil
 
 ## 🚀 About Me
 
 I work with tech support and software development, with solid knowledge in:
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** PHP, Python, Node.js (Express)  
+- **Programming languages:** HTML, CSS, JS, PHP, Python, C++ 
 - **Databases:** MySQL  
-- **Tools & Concepts:** Git/GitHub, RESTful APIs, i also work with Python and Google Apps Script automation
+- **Tools & Concepts:** Git/GitHub, RESTful APIs, Canva, Excel, i also work with Google Apps Script automation
 
 I'm a fast learner, self-taught, resilient, and always looking to turn theory into practical, effective solutions.
 
