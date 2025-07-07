@@ -2,7 +2,7 @@
 
 🎓 Software Engineering student focused on web and backend development  
 💡 Passionate about tech, automation, and creative problem-solving  
-🌍 Fluent in English | Based in Balneário Camboriú, Brazil
+🌍 Fluent in English | Based in Camboriú, Brazil
 
 ## 🚀 About Me
 
